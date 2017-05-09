@@ -1,0 +1,1 @@
+# AJExampleApp readme file
